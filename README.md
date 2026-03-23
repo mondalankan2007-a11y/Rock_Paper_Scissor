@@ -62,12 +62,12 @@ rock-paper-scissors
 
 Clone the repository:
 
-```bash
-https://github.com/mondalankan2007-a11y/Rock_Paper_Scissor.git```
 
-```
+https://github.com/mondalankan2007-a11y/Rock_Paper_Scissor.git
+
+
 index.html
-```
+
 
 in your browser.
 
