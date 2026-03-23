@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 60px;
+    border-radius: 12px;
+    width: 350px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.buttons{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    margin-top:20px;
+    
+}
+button {
+    
+    padding: 12px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+this is the code
+
+button:hover {
+    transform: scale(1.1);
+}
+
+.rock {
+    background: #ff7675;
+}
+
+.paper {
+    background: #74b9ff;
+}
+
+.scissor {
+    background: #55efc4;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.score {
+    margin-top: 10px;
+    font-weight: bold;
+}
